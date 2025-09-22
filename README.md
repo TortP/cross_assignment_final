@@ -1,3 +1,5 @@
+https://coffee-park-app.vercel.app/
+
 # Демо данные:
 
 ## Логин: default
